@@ -2,7 +2,7 @@
 
 * Java 后端程序员
 
-* 博客：www.bravedawn.com/blog
+* 博客：www.bravedawn.com
 * 微博：[depers](https://weibo.com/u/2880197701)
 * GitHub：https://github.com/depers
 
