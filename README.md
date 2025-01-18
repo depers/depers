@@ -3,7 +3,6 @@
 * Java 后端程序员
 
 * 博客：http://www.bravedawn.cn
-* 微博：[depers](https://weibo.com/u/2880197701)
 * GitHub：https://github.com/depers
 
 ## 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
